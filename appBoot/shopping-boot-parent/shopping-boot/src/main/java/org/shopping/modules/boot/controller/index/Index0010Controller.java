@@ -12,8 +12,7 @@ public class Index0010Controller {
 
     @GetMapping("/index")
     public void a(){
-        int a = 0;
-        int b = 3;
+
 
     }
 
