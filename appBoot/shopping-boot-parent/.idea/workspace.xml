@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5571ef23-54c2-480a-87b3-14a83b573675" name="Default Changelist" comment="" />
+    <list default="true" id="5571ef23-54c2-480a-87b3-14a83b573675" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-boot-base-common/target/classes/META-INF/maven/shopping-boot-parent/shopping-boot-base-common/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-boot-base-common/target/classes/META-INF/maven/shopping-boot-parent/shopping-boot-base-common/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-boot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-boot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-boot/src/main/java/org/shopping/modules/boot/controller/index/Index0010Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-boot/src/main/java/org/shopping/modules/boot/controller/index/Index0010Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-boot/src/main/java/org/shopping/shoppingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-boot/src/main/java/org/shopping/shoppingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-boot/target/classes/META-INF/maven/shopping-boot-parent/shopping-boot/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-boot/target/classes/META-INF/maven/shopping-boot-parent/shopping-boot/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-boot/target/classes/org/shopping/shoppingApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-boot/target/classes/org/shopping/shoppingApplication.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -27,6 +37,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1dCecqf05thwivvEB6NpHAafFu4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -54,7 +65,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.shoppingApplication (1)">
+    <configuration name="shoppingApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shopping-boot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.shopping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.shopping.shoppingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="shoppingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="shopping-boot" />
       <extension name="coverage">
@@ -70,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.shoppingApplication (1)" />
         <item itemvalue="Spring Boot.shoppingApplication" />
       </list>
     </recent_temporary>
@@ -88,11 +113,26 @@
       <workItem from="1591941389454" duration="37000" />
       <workItem from="1591941722694" duration="320000" />
       <workItem from="1591947500059" duration="4394000" />
+      <workItem from="1592202986408" duration="62000" />
+      <workItem from="1592203156675" duration="2387000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -100,7 +140,7 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/shopping-boot/src/main/java/org/shopping/modules/boot/controller/index/Index0010Controller.java</url>
           <line>14</line>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

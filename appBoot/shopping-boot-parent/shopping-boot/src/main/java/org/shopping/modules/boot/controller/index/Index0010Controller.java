@@ -10,8 +10,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/boot/index0010")
 public class Index0010Controller {
 
-    @GetMapping("/index")
+    @GetMapping("/login")
     public void a(){
+        int a = 1;
 
 
     }
