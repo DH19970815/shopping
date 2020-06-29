@@ -45,7 +45,7 @@
               if (!that.login.username || !that.login.password) {
                   return false;
               }else{
-                  that.$post(that.url.login, that.login).then(resp=>{
+                  that.$fetch(that.url.login).then(resp=>{
                       console.info(resp);
 
                   })
