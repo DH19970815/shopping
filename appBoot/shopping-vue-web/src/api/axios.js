@@ -24,7 +24,7 @@ import axios from 'axios';
 import { Message } from 'element-ui';
 
 axios.defaults.timeout = 5000;
-axios.defaults.baseURL ='http://manage.shopping.com/';
+axios.defaults.baseURL ='http://manage.shopping.api.com:81/';
 
 
 //http request 拦截器
@@ -153,6 +153,7 @@ export function fetch(url,params={}){
 };
 
 export function post(url,data = {}){
+  debugger
   return new Promise((resolve,reject) => {
     axios.post(url,data)
       .then(response => {
