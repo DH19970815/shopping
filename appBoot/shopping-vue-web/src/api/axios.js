@@ -153,7 +153,6 @@ export function fetch(url,params={}){
 };
 
 export function post(url,data = {}){
-  debugger
   return new Promise((resolve,reject) => {
     axios.post(url,data)
       .then(response => {
