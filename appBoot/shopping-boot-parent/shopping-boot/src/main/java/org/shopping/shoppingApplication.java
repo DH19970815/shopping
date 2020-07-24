@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Import;
 
 @SpringBootApplication
 //@Import({GlobalCorsConfig.class})
-//@ComponentScan("org.shopping.boot.common")
+//@ComponentScan("org.shopping.boot.common.configuration")
 //@MapperScan("org.shopping.modules.boot.mapper")
 public class shoppingApplication {
 	
