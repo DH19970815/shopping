@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.shopping.modules.boot.mapper.fileCommonUploadMapper">
+
+    <insert id="uploadFileBase">
+        insert into tb_file (id, path, name, type, del_flag) values (#{file.id}, #{file.path}, #{file.name}, #{file.type}, #{file.delFlag})
+    </insert>
+
+</mapper>
